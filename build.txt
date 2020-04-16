@@ -1,0 +1,3 @@
+displayName = NewMod
+author = CursingAphid
+version = 0.1
